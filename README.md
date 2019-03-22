@@ -7,7 +7,8 @@ dependencies:
    google_maps_flutter: ^0.4.0
 ```
 
-# 2 Get an API key at https://cloud.google.com/maps-platform/.
+# 2 Get an API key at :
+https://cloud.google.com/maps-platform/.
 
 # 3 Config API KEY
 

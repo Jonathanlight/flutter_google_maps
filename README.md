@@ -1,4 +1,4 @@
-# flutter_google_maps
+# Flutter Google Maps
 
 
 # 1 Add this to your package's pubspec.yaml file:

@@ -41,4 +41,6 @@ Specify your API key in the application delegate ios/Runner/AppDelegate.m:
 @end
 ```
 
+Opt-in to the embedded views preview by adding a boolean property to the app's Info.plist file with the key ```io.flutter.embedded_views_preview ```and the value ```YES```.
+
 ![img](https://github.com/jonathankablan/flutter_google_maps/blob/master/Screenshot.png)

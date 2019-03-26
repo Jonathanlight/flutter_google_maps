@@ -6,7 +6,7 @@
 
 - (BOOL)application:(UIApplication *)application
     didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-  [GMSServices provideAPIKey:@"AIzaSyC2i3CgZwqoS5nU9aWoOyY-_bkvNaIyFZw"];
+  [GMSServices provideAPIKey:@"KEY_GOOGLE_MAPS"];
   [GeneratedPluginRegistrant registerWithRegistry:self];
   return [super application:application didFinishLaunchingWithOptions:launchOptions];
 }

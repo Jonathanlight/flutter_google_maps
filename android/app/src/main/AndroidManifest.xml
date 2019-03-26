@@ -26,7 +26,7 @@
                 android:value="true" />
             <!-- Config key android for google maps -->    
             <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyC2i3CgZwqoS5nU9aWoOyY-_bkvNaIyFZw"/>
+               android:value="KEY_GOOGLE_MAPS"/>
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>
